@@ -614,7 +614,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-6.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-6.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">Historical Book</a></h5>
                   </div>
@@ -1273,7 +1273,7 @@ export default function Home() {
                             <div className="art-item-wraper">
                               <div className="art-item-inner">
                                 <div className="art-item-img pos-rel">
-                                  <a href="art-details.html"><img src="assets/img/art/art39.jpg" alt="art-img" /></a>
+                                  <a href="art-details.html"><Image src="assets/img/art/art39.jpg" alt="art-img" /></a>
                                 </div>
                               </div>
                             </div>
@@ -1360,7 +1360,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/sadhasdocasdc.jpg" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/sadhasdocasdc.jpg" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="art-3dots-menu">
