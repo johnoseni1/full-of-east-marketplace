@@ -8,7 +8,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "hardhat test"
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost"
   },
   "dependencies": {
     "@emotion/cache": "^11.7.1",
