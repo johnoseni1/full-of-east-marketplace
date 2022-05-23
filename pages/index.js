@@ -670,7 +670,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -698,7 +698,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -726,7 +726,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -754,7 +754,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -782,7 +782,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile5.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile5.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -810,7 +810,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile6.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile6.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -862,7 +862,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile7.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile7.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -890,7 +890,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile8.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile8.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -918,7 +918,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -946,7 +946,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -974,7 +974,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -1002,7 +1002,7 @@ export default function Home() {
                             <div className="creator-inner">
                               <div className="creator-content pos-rel creator-short-content">
                                 <div className="profile-img pos-rel">
-                                  <a href="creator-profile.html"><img src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
+                                  <a href="creator-profile.html"><Image src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
                                 </div>
                                 <div className="creator-info">
                                   <div className>
@@ -1054,7 +1054,7 @@ export default function Home() {
                                 <div className="art-item-wraper">
                                   <div className="art-item-inner">
                                     <div className="art-item-img pos-rel">
-                                      <a href="art-details.html"><img src="assets/img/art/art26.jpg" alt="art-img" /></a>
+                                      <a href="art-details.html"><Image src="assets/img/art/art26.jpg" alt="art-img" /></a>
                                     </div>
                                   </div>
                                 </div>
@@ -1065,7 +1065,7 @@ export default function Home() {
                                 <div className="art-item-wraper">
                                   <div className="art-item-inner">
                                     <div className="art-item-img pos-rel">
-                                      <a href="art-details.html"><img src="assets/img/art/art10.jpg" alt="art-img" /></a>
+                                      <a href="art-details.html"><Image src="assets/img/art/art10.jpg" alt="art-img" /></a>
                                     </div>
                                   </div>
                                 </div>
@@ -1078,7 +1078,7 @@ export default function Home() {
                             <div className="art-item-wraper">
                               <div className="art-item-inner">
                                 <div className="art-item-img pos-rel">
-                                  <a href="art-details.html"><img src="assets/img/art/art20.jpg" alt="art-img" /></a>
+                                  <a href="art-details.html"><Image src="assets/img/art/art20.jpg" alt="art-img" /></a>
                                 </div>
                               </div>
                             </div>
@@ -1119,7 +1119,7 @@ export default function Home() {
                                 <div className="art-item-wraper">
                                   <div className="art-item-inner">
                                     <div className="art-item-img pos-rel">
-                                      <a href="art-details.html"><img src="assets/img/art/art31.jpg" alt="art-img" /></a>
+                                      <a href="art-details.html"><Image src="assets/img/art/art31.jpg" alt="art-img" /></a>
                                     </div>
                                   </div>
                                 </div>
@@ -1130,7 +1130,7 @@ export default function Home() {
                                 <div className="art-item-wraper">
                                   <div className="art-item-inner">
                                     <div className="art-item-img pos-rel">
-                                      <a href="art-details.html"><img src="assets/img/art/art32.jpg" alt="art-img" /></a>
+                                      <a href="art-details.html"><Image src="assets/img/art/art32.jpg" alt="art-img" /></a>
                                     </div>
                                   </div>
                                 </div>
