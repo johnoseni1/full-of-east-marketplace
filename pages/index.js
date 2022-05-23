@@ -590,7 +590,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-3.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-3.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">Trading Elements</a></h5>
                   </div>
@@ -598,7 +598,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-4.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-4.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">Photography</a></h5>
                   </div>
@@ -606,7 +606,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-5.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-5.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">PSD Mockup</a></h5>
                   </div>
@@ -622,7 +622,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-7.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-7.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">Game &amp; Software</a></h5>
                   </div>
@@ -630,7 +630,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-8.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-8.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">Photo &amp; Image</a></h5>
                   </div>
