@@ -217,11 +217,11 @@ export default function Home() {
                               <div className="oc-banner-client " data-depth=".3">
                                 <div className="q-meta-item">
                                   <div className="q-meta-viewed-members">
-                                    <a href="creator-profile.html"><img src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
-                                    <a href="creator-profile.html"><img src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
-                                    <a href="creator-profile.html"><img src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
-                                    <a href="creator-profile.html"><img src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
-                                    <a href="creator-profile.html"><img src="assets/img/profile/profile5.jpg" alt="profile-img" /></a>
+                                    <a href="creator-profile.html"><Image src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
+                                    <a href="creator-profile.html"><Image src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
+                                    <a href="creator-profile.html"><Image src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
+                                    <a href="creator-profile.html"><Image src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
+                                    <a href="creator-profile.html"><Image src="assets/img/profile/profile5.jpg" alt="profile-img" /></a>
                                   </div>
                                   <div className="q-meta-viewed-members-count">
                                     <span className="q-meta-views">More Than</span>
