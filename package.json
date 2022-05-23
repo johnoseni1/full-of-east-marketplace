@@ -10,7 +10,13 @@
     "lint": "next lint",
     "test": "hardhat test",
     "node": "hardhat node",
-    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost"
+    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:mumbai": "hardhat run scripts/deploy.js --network mumbai",
+    "setup-marketplace:localhost": "hardhat run scripts/setupMarket.js --network localhost",
+    "setup-marketplace:mumbai": "hardhat run scripts/setupMarket.js --network mumbai",
+    "setup-real": "npm run deploy:localhost && npm run setup-marketplace:localhost",
+    "setup": "npm run deploy:mumbai && npm run setup-marketplace:mumbai",
+    "env": "hardhat run scripts/updateVercelEnviromentKeys.js --network mumbai"
   },
   "dependencies": {
     "@emotion/cache": "^11.7.1",
