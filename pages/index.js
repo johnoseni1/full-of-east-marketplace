@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import Logo from './img/logo/logo.png'
 
 export default function Home() {
   return (
@@ -21,9 +22,9 @@ export default function Home() {
                     <div className="header-main-left">
                       <div className="header-logo header1-logo">
                         <a href="index.html" className="logo-bb">
-                          <Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
+                          <Image style={{width: '60px', height : '60px'}} src={Logo} alt="logo-img" /></a>
                         <a href="index.html" className="logo-bw">
-                          <Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
+                          <Image style={{width: '60px', height : '60px'}} src={Logo} alt="logo-img" /></a>
                       </div>
                     </div>
                   </div>
