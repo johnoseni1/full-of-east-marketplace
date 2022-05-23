@@ -20,8 +20,10 @@ export default function Home() {
                   <div className="col-xl-2 col-lg-2 col-md-4 col-4">
                     <div className="header-main-left">
                       <div className="header-logo header1-logo">
-                        <a href="index.html" className="logo-bb"><img style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
-                        <a href="index.html" className="logo-bw"><img style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
+                        <a href="index.html" className="logo-bb">
+                          <Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
+                        <a href="index.html" className="logo-bw">
+                          <Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
                       </div>
                     </div>
                   </div>
