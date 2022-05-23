@@ -265,7 +265,7 @@ export default function Home() {
                       <a href="wallet-connect.html">
                         <div className="oc-wallet text-center mb-30">
                           <div className="oc-wallet-icon text-center">
-                            <img src="assets/img/wallet/oc-wallet-1.png" alt="img not found" />
+                            <Image src="assets/img/wallet/oc-wallet-1.png" alt="img not found" />
                           </div>
                           <h5 className="oc-wallet-title">Meta Mask</h5>
                         </div>
@@ -275,7 +275,7 @@ export default function Home() {
                       <a href="wallet-connect.html">
                         <div className="oc-wallet text-center mb-30">
                           <div className="oc-wallet-icon text-center">
-                            <img src="assets/img/wallet/oc-wallet-2.png" alt="img not found" />
+                            <Image src="assets/img/wallet/oc-wallet-2.png" alt="img not found" />
                           </div>
                           <h5 className="oc-wallet-title">Binance</h5>
                         </div>
@@ -285,7 +285,7 @@ export default function Home() {
                       <a href="wallet-connect.html">
                         <div className="oc-wallet text-center mb-30">
                           <div className="oc-wallet-icon text-center">
-                            <img src="assets/img/wallet/oc-wallet-3.png" alt="img not found" />
+                            <Image src="assets/img/wallet/oc-wallet-3.png" alt="img not found" />
                           </div>
                           <h5 className="oc-wallet-title">Formatic</h5>
                         </div>
@@ -295,7 +295,7 @@ export default function Home() {
                       <a href="wallet-connect.html">
                         <div className="oc-wallet text-center mb-30">
                           <div className="oc-wallet-icon text-center">
-                            <img src="assets/img/wallet/oc-wallet-4.png" alt="img not found" />
+                            <Image src="assets/img/wallet/oc-wallet-4.png" alt="img not found" />
                           </div>
                           <h5 className="oc-wallet-title">Autherum</h5>
                         </div>
@@ -305,7 +305,7 @@ export default function Home() {
                       <a href="wallet-connect.html">
                         <div className="oc-wallet text-center mb-30">
                           <div className="oc-wallet-icon text-center">
-                            <img src="assets/img/wallet/oc-wallet-5.png" alt="img not found" />
+                            <Image src="assets/img/wallet/oc-wallet-5.png" alt="img not found" />
                           </div>
                           <h5 className="oc-wallet-title">Coinbase</h5>
                         </div>
@@ -344,7 +344,7 @@ export default function Home() {
                                     <div className="art-action-like-count">2.5k+</div>
                                     <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                                   </div>
-                                  <a href="art-details.html"><img src="assets/img/bids/oc-bids-1.jpg" alt="art-img" /></a>
+                                  <a href="art-details.html"><Image src="assets/img/bids/oc-bids-1.jpg" alt="art-img" /></a>
                                 </div>
                                 <div className="art-item-content pos-rel">
                                   <div className="auction-time-and-btn">
@@ -364,7 +364,7 @@ export default function Home() {
                                   </div>
                                   <div className="artist">
                                     <div className="profile-img pos-rel">
-                                      <a href="creator-profile.html"><img src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
+                                      <a href="creator-profile.html"><Image src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
                                       <div className="profile-verification verified">
                                         <i className="fas fa-check" />
                                       </div>
@@ -397,7 +397,7 @@ export default function Home() {
                                     <div className="art-action-like-count">2.5k+</div>
                                     <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                                   </div>
-                                  <a href="art-details.html"><img src="assets/img/bids/oc-bids-2.jpg" alt="art-img" /></a>
+                                  <a href="art-details.html"><Image src="assets/img/bids/oc-bids-2.jpg" alt="art-img" /></a>
                                 </div>
                                 <div className="art-item-content pos-rel">
                                   <div className="auction-time-and-btn">
@@ -417,7 +417,7 @@ export default function Home() {
                                   </div>
                                   <div className="artist">
                                     <div className="profile-img pos-rel">
-                                      <a href="creator-profile.html"><img src="assets/img/profile/profile7.jpg" alt="profile-img" /></a>
+                                      <a href="creator-profile.html"><Image src="assets/img/profile/profile7.jpg" alt="profile-img" /></a>
                                       <div className="profile-verification verified">
                                         <i className="fas fa-check" />
                                       </div>
@@ -451,7 +451,7 @@ export default function Home() {
                                     <div className="art-action-like-count">2.5k+</div>
                                     <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                                   </div>
-                                  <a href="art-details.html"><img src="assets/img/bids/oc-bids-3.jpg" alt="art-img" /></a>
+                                  <a href="art-details.html"><Image src="assets/img/bids/oc-bids-3.jpg" alt="art-img" /></a>
                                 </div>
                                 <div className="art-item-content pos-rel">
                                   <div className="auction-time-and-btn">
@@ -471,7 +471,7 @@ export default function Home() {
                                   </div>
                                   <div className="artist">
                                     <div className="profile-img pos-rel">
-                                      <a href="creator-profile.html"><img src="assets/img/profile/profile8.jpg" alt="profile-img" /></a>
+                                      <a href="creator-profile.html"><Image src="assets/img/profile/profile8.jpg" alt="profile-img" /></a>
                                       <div className="profile-verification verified">
                                         <i className="fas fa-check" />
                                       </div>
@@ -504,7 +504,7 @@ export default function Home() {
                                     <div className="art-action-like-count">2.5k+</div>
                                     <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                                   </div>
-                                  <a href="art-details.html"><img src="assets/img/bids/oc-bids-4.jpg" alt="art-img" /></a>
+                                  <a href="art-details.html"><Image src="assets/img/bids/oc-bids-4.jpg" alt="art-img" /></a>
                                 </div>
                                 <div className="art-item-content pos-rel">
                                   <div className="auction-time-and-btn">
@@ -524,7 +524,7 @@ export default function Home() {
                                   </div>
                                   <div className="artist">
                                     <div className="profile-img pos-rel">
-                                      <a href="creator-profile.html"><img src="assets/img/profile/profile6.jpg" alt="profile-img" /></a>
+                                      <a href="creator-profile.html"><Image src="assets/img/profile/profile6.jpg" alt="profile-img" /></a>
                                       <div className="profile-verification verified">
                                         <i className="fas fa-check" />
                                       </div>
@@ -574,7 +574,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-1.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-1.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">3D Artwork</a></h5>
                   </div>
@@ -582,7 +582,7 @@ export default function Home() {
                 <div className="col-xl-3 col-lg-3 col-sm-6">
                   <div className="oc-category mb-55">
                     <div className="oc-category-img">
-                      <a href="explore-arts.html"><img src="assets/img/bids/oc-category-2.jpg" alt="img not found" /></a>
+                      <a href="explore-arts.html"><Image src="assets/img/bids/oc-category-2.jpg" alt="img not found" /></a>
                     </div>
                     <h5 className="oc-category-title"><a href="explore-arts.html">Video &amp; Music</a></h5>
                   </div>
