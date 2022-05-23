@@ -2,6 +2,7 @@
   "name": "east-marketplace",
   "version": "0.1.0",
   "private": true,
+  "author": "John Oseni",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
