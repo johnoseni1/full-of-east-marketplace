@@ -1786,7 +1786,7 @@ export default function Home() {
                       <div className="step">Step</div>
                       <div className="work-process-content">
                         <div className="process-icon mb-40">
-                          <img src="assets/img/shape/create-collection.png" alt="img" />
+                          <Image src="assets/img/shape/create-collection.png" alt="img" />
                         </div>
                         <h4 className="process-title">
                           <a href="explore-arts.html">Create Collection</a>
@@ -1801,7 +1801,7 @@ export default function Home() {
                       <div className="step">Step</div>
                       <div className="work-process-content">
                         <div className="process-icon mb-40">
-                          <img src="assets/img/shape/list-icon.png" alt="img" />
+                          <Image src="assets/img/shape/list-icon.png" alt="img" />
                         </div>
                         <h4 className="process-title">
                           <a href="upload.html">List them to sale</a>
@@ -1825,8 +1825,8 @@ export default function Home() {
                 <div className="col-lg-3 col-md-6">
                   <div className="footer-widget footer1-widget footer1-widget1 mb-40">
                     <div className="footer-logo mb-30">
-                      <a href="index.html" className="logo-bb"><img style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
-                      <a href="index.html" className="logo-bw"><img style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
+                      <a href="index.html" className="logo-bb"><Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
+                      <a href="index.html" className="logo-bw"><Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" /></a>
                     </div>
                     <p className="mb-35">A unique marketplace for both digital, and redeemable NFTs embedded company’s share and assets. </p>
                     <div className="social__links footer__social">
