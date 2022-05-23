@@ -1629,7 +1629,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile7.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile7.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1662,7 +1662,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/art8.jpg" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/art8.jpg" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="art-3dots-menu">
