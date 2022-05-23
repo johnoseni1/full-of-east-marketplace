@@ -22,9 +22,9 @@ export default function Home() {
                     <div className="header-main-left">
                       <div className="header-logo header1-logo">
                         <a href="index.html" className="logo-bb">
-                          <Image style={{width: 60, height : 60}} src={Logo} alt="logo-img" /></a>
+                          <Image style={{Width: 60, Height : 60}} src={Logo} alt="logo-img" /></a>
                         <a href="index.html" className="logo-bw">
-                          <Image style={{width: 60, height : 60}} src={Logo} alt="logo-img" /></a>
+                          <Image style={{Width: 60, Height : 60}} src={Logo} alt="logo-img" /></a>
                       </div>
                     </div>
                   </div>
