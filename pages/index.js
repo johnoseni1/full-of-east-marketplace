@@ -1184,7 +1184,7 @@ export default function Home() {
                                 <div className="art-item-wraper">
                                   <div className="art-item-inner">
                                     <div className="art-item-img pos-rel">
-                                      <a href="art-details.html"><img src="assets/img/art/art36.jpg" alt="art-img" /></a>
+                                      <a href="art-details.html"><Image src="assets/img/art/art36.jpg" alt="art-img" /></a>
                                     </div>
                                   </div>
                                 </div>
