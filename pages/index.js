@@ -82,7 +82,7 @@ export default function Home() {
                               <li><a href="login.html"><i className="fal fa-sign-out" />Logout</a></li>
                             </ul>
                           </div>
-                          <img src="assets/img/profile/profile4.jpg" alt="profile-img" />
+                          <Image src="assets/img/profile/profile4.jpg" alt="profile-img" />
                           <div className="profile-verification verified">
                             <i className="fas fa-check" />
                           </div>
@@ -112,7 +112,7 @@ export default function Home() {
                   <div className="row align-items-center">
                     <div className="col-9">
                       <a href="index.html">
-                        <img style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="Logo" />
+                        <Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="Logo" />
                       </a>
                     </div>
                     <div className="col-3 text-end"><button className="side-info-close"><i className="fal fa-times" /></button>
