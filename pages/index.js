@@ -1678,7 +1678,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile8.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile8.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1711,7 +1711,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/624415f0c23c9169046500.gif" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/624415f0c23c9169046500.gif" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="art-3dots-menu">
@@ -1727,7 +1727,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile6.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile6.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1771,7 +1771,7 @@ export default function Home() {
                       <div className="step">Step</div>
                       <div className="work-process-content">
                         <div className="process-icon mb-40">
-                          <img src="assets/img/shape/connect-icon.png" alt="img" />
+                          <Image src="assets/img/shape/connect-icon.png" alt="img" />
                         </div>
                         <h4 className="process-title">
                           <a href="wallet-connect.html">Connect your wallet</a>
