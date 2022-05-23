@@ -1,6 +1,19 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import './css/animate.min.css'
+import './css/preloader.css'
+import './css/bootstrap.min.css'
+import './css/meanmenu.css'
+import './css/owl.carousel.min.css'
+import './css/swiper-bundle.css'
+import './css/backToTop.css'
+import './css/magnific-popup.css'
+import './css/nice-select.css'
+import './css/fontAwesome5Pro.css'
+import './css/flaticon.css'
+import './css/default.css'
+import './css/style.css'
 
 export default function Home() {
   return (
