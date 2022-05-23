@@ -1921,9 +1921,9 @@ export default function Home() {
           <div id="loading-center">
             <div id="loading-center-absolute">
               <div className="loading-icon text-center d-flex flex-column align-items-center justify-content-center">
-                <img style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" />
+                <Image style={{width: '60px', height : '60px'}} src="assets/img/logo/logo.png" alt="logo-img" />
                 <div style={{fontWeight: 'bold'}}>EastMarketplace</div>
-                <img className="loading-logo" src="assets/img/logo/preloader.svg" alt="" />
+                <Image className="loading-logo" src="assets/img/logo/preloader.svg" alt="" />
               </div>
             </div>
           </div>
