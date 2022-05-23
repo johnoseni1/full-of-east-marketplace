@@ -1409,7 +1409,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/6244170cdbc1b582421642.gif" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/6244170cdbc1b582421642.gif" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="art-3dots-menu">
@@ -1425,7 +1425,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile4.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1458,7 +1458,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/art46.jpg" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/art46.jpg" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="art-3dots-menu">
@@ -1474,7 +1474,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile3.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1507,7 +1507,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/vfvkodfvdv.jpg" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/vfvkodfvdv.jpg" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="auction-time-and-btn">
@@ -1527,7 +1527,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile2.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1560,7 +1560,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/art5.jpg" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/art5.jpg" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="art-3dots-menu">
@@ -1576,7 +1576,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile5.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile5.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
@@ -1609,7 +1609,7 @@ export default function Home() {
                             <div className="art-action-collection"><i className="flaticon-plus-sign" /></div>
                           </div>
                           <a href="#" className="place-bid">Place Bid</a>
-                          <a href="art-details.html"><img src="assets/img/art/fvbsdhu-fgvsfgv.jpg" alt="art-img" /></a>
+                          <a href="art-details.html"><Image src="assets/img/art/fvbsdhu-fgvsfgv.jpg" alt="art-img" /></a>
                         </div>
                         <div className="art-item-content pos-rel">
                           <div className="auction-time-and-btn">
