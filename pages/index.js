@@ -131,7 +131,7 @@ export default function Home() {
                             <li><a href="login.html"><i className="fal fa-sign-out" />Logout</a></li>
                           </ul>
                         </div>
-                        <img src="assets/img/profile/profile4.jpg" alt="profile-img" />
+                        <Image src="assets/img/profile/profile4.jpg" alt="profile-img" />
                         <div className="profile-verification verified">
                           <i className="fas fa-check" />
                         </div>
