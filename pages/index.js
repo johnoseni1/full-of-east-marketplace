@@ -1376,7 +1376,7 @@ export default function Home() {
                           </div>
                           <div className="artist">
                             <div className="profile-img pos-rel">
-                              <a href="creator-profile.html"><img src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
+                              <a href="creator-profile.html"><Image src="assets/img/profile/profile1.jpg" alt="profile-img" /></a>
                               <div className="profile-verification verified">
                                 <i className="fas fa-check" />
                               </div>
