@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "John Oseni <jonhoseni26@mail.com>",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -39,14 +40,15 @@
     "formidable": "^3.2.1",
     "hardhat": "^2.8.2",
     "ipfs-http-client": "^55.0.0",
+    "jquery": "^3.6.0",
     "multiparty": "^4.2.2",
     "next": "12.1.6",
     "next-connect": "^0.11.0",
-    "owl.carousel": "^2.3.4",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-hook-form": "^7.24.1",
     "react-infinite-scroll-component": "^6.1.0",
+    "react-owl-carousel": "^2.3.3",
     "sharp": "^0.30.4",
     "web3modal": "^1.9.5"
   },
