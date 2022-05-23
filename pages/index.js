@@ -169,7 +169,7 @@ export default function Home() {
               <div className="swiper-wrapper">
                 <div className="swiper-slide">
                   <div className="single-banner single-banner-1 banner-900 d-flex align-items-center pos-rel mb-30">
-                    <img src="assets/img/banner/b1-shape1.png" alt="" className="b1-shape1" />
+                    <Image src="assets/img/banner/b1-shape1.png" alt="" className="b1-shape1" />
                     <div className="banner-bg" data-background="assets/img/banner/oc-banner-bg.png" />
                     <div className="banner-bg-light" data-background="assets/img/banner/oc-banner-bg-light.png" />
                     <div className="container pos-rel">
@@ -202,16 +202,16 @@ export default function Home() {
                         <div className="col-xl-5 col-lg-6">
                           <div className="oc-banner-img pos-rel">
                             <div className="oc-banner-img-1 stuff">
-                              <img className data-depth=".5" src="assets/img/banner/oc-banner-1.jpg" alt="img not found" />
+                              <Image className data-depth=".5" src="assets/img/banner/oc-banner-1.jpg" alt="img not found" />
                             </div>
                             <div className="oc-banner-img-2 stuff2">
-                              <img className data-depth=".6" src="assets/img/banner/oc-banner-2.jpg" alt="img not found" />
+                              <Image className data-depth=".6" src="assets/img/banner/oc-banner-2.jpg" alt="img not found" />
                             </div>
                             <div className="oc-banner-img-3 stuff3">
-                              <img className data-depth=".3" src="assets/img/banner/oc-banner-3.jpg" alt="img not found" />
+                              <Image className data-depth=".3" src="assets/img/banner/oc-banner-3.jpg" alt="img not found" />
                             </div>
                             <div className="oc-banner-img-4 stuff4">
-                              <img className data-depth=".5" src="assets/img/banner/oc-banner-4.jpg" alt="img not found" />
+                              <Image className data-depth=".5" src="assets/img/banner/oc-banner-4.jpg" alt="img not found" />
                             </div>
                             <div className="oc-banner-client-wrapper stuff5">
                               <div className="oc-banner-client " data-depth=".3">
